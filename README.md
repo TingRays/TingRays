@@ -19,7 +19,7 @@
 - ⚡ Fun fact: ...
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyang0210&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wangyang0210's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyang0210&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=TingRays&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TingRays's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingRays&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </p>
@@ -28,10 +28,10 @@
 
 
 <a href="https://github.com/wangyang0210/Cnblogs-Theme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangyang0210&repo=Cnblogs-Theme&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TingRays&repo=Cnblogs-Theme&theme=buefy" />
 </a>
 <a href="https://github.com/wangyang0210/wangyang0210.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangyang0210&repo=wangyang0210.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TingRays&repo=wangyang0210.github.io&theme=buefy" />
 </a> ----!>
 
 <br />
