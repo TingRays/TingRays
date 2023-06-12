@@ -3,10 +3,10 @@
   <br><br />
   <samp>
     😆 Hey! Welcome to my profile
-    <br />
-    <br /> ~~🍉 Take a look at my stats. ~~
-    <br />
-    <br />🌱 If you want to know more about me, please visit my <a href="https://github.com/TingRays/">Profile</a>
+    <!-- <br />
+    <br /> 🍉 Take a look at my stats. -->
+    <!-- <br />
+    <br />🌱 If you want to know more about me, please visit my <a href="https://github.com/TingRays/">Profile</a> -->
     <br /> 👋 ✨ 
     - 🔭 
     - 🌱 
@@ -17,6 +17,7 @@
     - 😄
     - ⚡ 
   </samp>
+
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=TingRays&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TingRays's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingRays&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
